@@ -1,0 +1,80 @@
+.intro {
+  width: 100%;
+  max-width: 720px;
+  padding: 60px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin: 0 auto;
+}
+
+.intro__title {
+  font-size: 32px;
+  line-height: 1.15;
+  margin: 0;
+}
+
+.intro__quote {
+  margin: 0;
+  border-left: 4px solid #fff;
+  padding-left: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.intro__quote-text {
+  font-style: italic;
+  font-size: 20px;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.intro__quote-author {
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.7;
+  color: #ffffff;
+  align-self: flex-end;
+  text-align: right;
+  margin: 0;
+}
+
+.intro__description {
+  font-size: 18px;
+  line-height: 1.7;
+  margin: 0;
+}
+
+@media (max-width: 1024px) {
+  .intro {
+    padding: 48px 20px;
+  }
+
+  .intro__title {
+    font-size: 28px;
+  }
+
+  .intro__quote-text,
+  .intro__quote-author,
+  .intro__description {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 544px) {
+  .intro {
+    padding: 32px 16px;
+  }
+
+  .intro__title {
+    font-size: 24px;
+  }
+
+  .intro__quote-text,
+  .intro__quote-author,
+  .intro__description {
+    font-size: 16px;
+  }
+}
