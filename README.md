@@ -1,12 +1,11 @@
-# Nome do Projeto (ex: Café - Triple Peaks Library)
+# Web Project Homeland
 
-Breve descrição do projeto. Explique o que é a página, o objetivo dela e quais tecnologias foram utilizadas (ex: HTML5, CSS3, Metodologia BEM, Flexbox, Responsividade).
+Projeto 5 - Tripleten
 
 ## 🚀 Link do Projeto
 
 Você pode visualizar o projeto online aqui:
-👉 [Clique aqui para acessar o projeto no GitHub Pages]([https://luizlobatojr.github.io/web_project_homeland/])
-
+👉 [Clique aqui para acessar o projeto no GitHub Pages](https://luizlobatojr.github.io/web_project_homeland/)
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -18,4 +17,4 @@ Você pode visualizar o projeto online aqui:
 
 ## ✒️ Autor
 
-- **Luiz Otávio** - [Seu GitHub](https://github.com/SEU_USUARIO)
+- **Luiz Otávio** - [Seu GitHub](https://github.com/luizlobatojr)
