@@ -5,7 +5,7 @@ Breve descrição do projeto. Explique o que é a página, o objetivo dela e qua
 ## 🚀 Link do Projeto
 
 Você pode visualizar o projeto online aqui:
-👉 [Clique aqui para acessar o projeto no GitHub Pages](URL_DO_SEU_GITHUB_PAGES_AQUI)
+👉 [Clique aqui para acessar o projeto no GitHub Pages]([https://luizlobatojr.github.io/web_project_homeland/])
 
 
 ## 🛠️ Tecnologias Utilizadas
