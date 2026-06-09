@@ -1,7 +1,8 @@
 .footer {
-    width: 100%;
-    padding: 24px;
-    text-align: center;
-    font-size: 0.875rem;
-    color: #cccccc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 40px 0; /* Espaçamento interno respirável em vez de 'top' fixo */
+  width: 100%;     /* Ocupa a largura total de forma limpa */
 }

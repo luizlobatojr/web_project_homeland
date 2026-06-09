@@ -1,0 +1,33 @@
+.lead {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+  width: 100%;
+  margin: 0px auto 92px auto;
+  max-width: 984px;
+  padding: 0 20px;
+}
+.lead__title {
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 0.96;
+  letter-spacing: 0;
+  text-align: center;
+  margin: 0 auto 32px auto;
+}
+.lead__subtitle {
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 1.2;
+  letter-spacing: 0;
+  text-align: center;
+  margin: 0 132px 64px 132px;
+}
+.lead__image {
+  width: 100%;
+  height: auto;
+  max-width: 984px;
+}
+
