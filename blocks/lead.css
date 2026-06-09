@@ -7,7 +7,7 @@
   width: 100%;
   margin: 0px auto 92px auto;
   max-width: 984px;
-  padding: 0 20px;
+
 }
 .lead__title {
   font-weight: 900;
@@ -58,5 +58,6 @@
     font-size: 16px;      /* Reduz o subtítulo para mobile */
     line-height: 1.3;
     margin-bottom: 40px;
+    
   }
 }
